@@ -1,3 +1,5 @@
+/* universal selector: selects all elements */
+
 * {
     padding: 0;
     margin: 0;
@@ -49,7 +51,9 @@ header nav ul li {
     margin-left: 25px;
 }
 
-header h1 .seo {
+/* class selector applied to "seo" text */
+
+.seo {
     color: #d9dcd6;
 }
 
@@ -128,17 +132,4 @@ header h1 .seo {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-/* apply styles to footer */
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }

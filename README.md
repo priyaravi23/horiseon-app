@@ -2,7 +2,7 @@
 
 ### Application Deployed to GitHub Pages 
 
-https://priyaravi23.github.io/horiseon-app/#social-media-marketing
+https://priyaravi23.github.io/horiseon-app/
 
 > Web accessibility is an increasingly important consideration for businesses. It ensures that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 
